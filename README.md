@@ -1,2 +1,2 @@
 SFMLServer
-Daudzspēlētāju spēles #SFMLGame serveris, kas ir uzrakstīts C++ valodā.
+Daudzspēlētāju spēles #SFMLGame ( https://github.com/YLPMF/SFMLGame ) serveris, kas ir uzrakstīts C++ valodā.
