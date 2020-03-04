@@ -1,0 +1,11 @@
+﻿  Command.cpp
+  main.cpp
+  Player.cpp
+  Server.cpp
+d:\ylp games\sfmlserver\sfmlserver\server.cpp(345): warning C4018: '<': signed/unsigned mismatch
+d:\ylp games\sfmlserver\sfmlserver\server.cpp(377): warning C4018: '<': signed/unsigned mismatch
+  Timer.cpp
+  Generating code
+  All 1756 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SFMLServer.vcxproj -> D:\YLP Games\SFMLServer\Release\SFMLServer.exe
